@@ -1,9 +1,0 @@
-﻿  Set.cpp
-  Main.cpp
-c:\users\ashley\documents\visual studio 2015\projects\projects\mortona_proj3\mortona_proj3\main.cpp(12): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-c:\users\ashley\documents\visual studio 2015\projects\projects\mortona_proj3\mortona_proj3\set.cpp(177): warning C4018: '<=': signed/unsigned mismatch
-  c:\users\ashley\documents\visual studio 2015\projects\projects\mortona_proj3\mortona_proj3\set.cpp(171): note: while compiling class template member function 'void Set<int>::Input(std::string)'
-  c:\users\ashley\documents\visual studio 2015\projects\projects\mortona_proj3\mortona_proj3\main.cpp(29): note: see reference to function template instantiation 'void Set<int>::Input(std::string)' being compiled
-  c:\users\ashley\documents\visual studio 2015\projects\projects\mortona_proj3\mortona_proj3\main.cpp(20): note: see reference to class template instantiation 'Set<int>' being compiled
-  Generating Code...
-  MortonA_Proj3.vcxproj -> C:\Users\ashley\Documents\Visual Studio 2015\Projects\Projects\MortonA_Proj3\Debug\MortonA_Proj3.exe
